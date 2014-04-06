@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Penguin Story</string>
+    <string name="action_settings">Settings</string>
+    <string name="feed">Feed</string>
+    <string name="dance">Dance</string>
+    <string name="heal">Heal</string>
+    <string name="clean">Clean</string>
+    <string name="mark_territory">Mark Territory</string>
+    <string name="days_alive">Days alive:</string>
+    <string name="territory_points">Territory points:</string>
+    <string name="penguin">Penguin</string>
+    <string name="happiness">Happiness</string>
+    <string name="health">Health</string>
+    <string name="happiness_icon">Happiness Icon</string>
+    <string name="_0">0</string>
+    <string name="share">Share</string>
+    <string name="title_activity_feed">FeedActivity</string>
+    <string name="markWebpage">Mark Webpage</string>
+    <string name="mark">Mark</string>
+    <string name="location_marked">Location marked!</string>
+    <string name="location_not_marked">Location has been marked before!</string>
+    <string name="mark_webpage">Mark Webpage</string>
+
+    <color name="sandraBlue">#338cf1</color>
+
+    <string name="title_activity_select_contact">SelectContactActivity</string>
+    <string name="title_activity_frag">Frag</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
